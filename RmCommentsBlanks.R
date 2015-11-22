@@ -12,7 +12,8 @@
 ########################################################################
 
 test this out 
-test commit two 
+test commit two
+test commit three
 ########################################################################
 # FUNCTION- GetStrippedFIle (strips comments and blanks for C fam files)
 ########################################################################
